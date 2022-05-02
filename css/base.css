@@ -335,7 +335,6 @@ footer p {
 .modal-dialog {
   position: relative;
   width: 70%;
-  height:600px !important;
   margin: 0.5rem;
   pointer-events: none;
   
