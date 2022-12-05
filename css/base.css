@@ -2,7 +2,7 @@
 
 body {
     margin: 0 auto;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: montserrat;
     color: #FFFFFF;
 }
 
@@ -34,7 +34,7 @@ header h2 {
     text-shadow: 0px 0px 12.48px rgba(0, 0, 0, 0.5);
     color: #000000;
     line-height: 0.8em;
-    font-family: dorsa;
+    font-family: montserrat;
     font-size: 100px;
     font-weight: 400;
     font-style: normal;
@@ -44,7 +44,7 @@ header h2 {
 header p {
 	margin: 0;
 	line-height: 5em;
-	font-family: LucidaGrande;
+	font-family: montserrat;
 	color: #ffffff;
 	font-size: 18px;
 	font-weight: 400;
@@ -76,7 +76,7 @@ nav ul li a:link  , nav ul li a:visited{
     text-decoration: none;
     border: 1px solid #242C34;
     color: #242c34;
-    font-family: dorsa;
+    font-family: montserrat;
     font-size: 30px;
     font-weight: 400;
     line-height: 22px;
@@ -133,12 +133,12 @@ main section h1 {
     line-height: 22px;
     font-style: normal;
     padding-bottom: 15px;
-    font-family: dorsa;
+    font-family: montserrat;
     text-align: left;
 }
 main section article h2 {
     font-size: 50px;
-    font-family: dorsa;
+    font-family: montserrat;
     color: #FFFFFF;
     font-weight: 400;
     line-height: 22px;
@@ -160,7 +160,7 @@ h6{
     margin-left: 0;
     margin-bottom: 0;
     line-height: 0.8em;
-    font-family: dorsa;
+    font-family: montserrat;
     font-weight: 400;
     font-style: normal;
 	font-size: 45px;
@@ -249,7 +249,7 @@ footer {
 footer p {
     margin: 0 0 5px 0;
     color: #000000;
-    font-family: dorsa;
+    font-family: montserrat;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -299,7 +299,7 @@ footer p {
     width: auto;
     background-color: #242C34;
     font-size: 30px;
-    font-family: dorsa;
+    font-family: montserrat;
     color: #FFFFFF;
     font-weight: 400;
     line-height: 22px;
@@ -316,7 +316,7 @@ footer p {
 
 .modal-h2 {
 	font-size: 50px;
-    font-family: dorsa;
+    font-family: montserrat;
     color: #FFFFFF;
     font-weight: 400;
     line-height: 22px;
